@@ -43,6 +43,7 @@ With Config
     # [USER]
     # team=leafs
     #
+
     config.read(".config")
     default_config = config["user"]
     d = Dfault(default_config)
