@@ -1,0 +1,5 @@
+*.swp
+build
+checkspot.egg-info
+cmdline_bootstrap.egg-info
+dist
