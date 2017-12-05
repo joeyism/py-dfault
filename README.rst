@@ -53,6 +53,10 @@ With Config
 Versions
 --------
 
+-  **1.0.x**
+
+   -  bug fixes
+
 -  **1.0.0**
 
    -  First Publish
