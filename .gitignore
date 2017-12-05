@@ -3,3 +3,4 @@ build
 checkspot.egg-info
 cmdline_bootstrap.egg-info
 dist
+__pycache__
