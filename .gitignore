@@ -1,6 +1,5 @@
 *.swp
 build
-checkspot.egg-info
-cmdline_bootstrap.egg-info
+*.egg-info
 dist
 __pycache__
