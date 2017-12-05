@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: dfault
-Version: 1.0.1
+Version: 1.0.5
 Summary: A simple lightweight class that allows the user to fallback on default values
 Home-page: http://www.joeyism.com
 Author: Joey Sham
