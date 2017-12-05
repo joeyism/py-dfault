@@ -41,5 +41,7 @@ d.get("username", "joeyism") # returns "joeyism" as there is no "username" value
 ```
 
 ## Versions
+* **1.0.x**
+    * bug fixes
 * **1.0.0**
     * First Publish

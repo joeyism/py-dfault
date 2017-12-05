@@ -6,9 +6,9 @@ class Dfault(object):
         self.default_config = default_config
 
     def get(self, name, default_name):
-        global default_config
+        self.default_config
         try:
-            return default_config[name]
+            return self.default_config[name]
         except:
             return default_name
 

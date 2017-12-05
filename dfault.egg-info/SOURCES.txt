@@ -1,0 +1,7 @@
+README.rst
+setup.py
+dfault/objects.py
+dfault.egg-info/PKG-INFO
+dfault.egg-info/SOURCES.txt
+dfault.egg-info/dependency_links.txt
+dfault.egg-info/top_level.txt
